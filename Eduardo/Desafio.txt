@@ -1,0 +1,15 @@
+Primeira parte do Desafio: 
+
+1. Clonar esse repositório (Pesquisar no google Git Clone)
+2. Criar uma nova pasta com seu nome, adicionar um arquivo texto explicando o que é um Pull Request. 
+3. Commitar a alteração em uma nova branch chamada: "Desafio-SeuNome"
+4. Fazer o push dessas informações na branch "Desafio-SeuNome"
+5. Fazer o pull request da branch "Desafio-SeuNome" para "main"
+
+ps.: Alterar "SeuNome" para o seu nome de verdade tá? não vai subir uma branch com "SeuNome" escrito que eu vou ficar triste. 
+
+Refs.: 
+ => Curso na Udemy que disponibilizamos
+ => https://www.youtube.com/watch?v=UBAX-13g8OM
+ => https://www.alura.com.br/artigos/github-na-linha-de-comando
+ => https://docs.github.com/pt
